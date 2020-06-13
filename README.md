@@ -1,4 +1,4 @@
-To visit the site, clikc [here](https://kufanya-todo.netlify.app/)
+To visit the site, click [here](https://kufanya-todo.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
